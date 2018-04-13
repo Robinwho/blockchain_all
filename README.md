@@ -39,6 +39,8 @@ All about blockchain, definition/technique/algorithm/application/scene, etc. inc
 
 ## 场景篇
 ### 金融
+* [区块链将颠覆这18个行业，最后一个行业绝对出乎你的意料](https://36kr.com/p/5114192.html)
+* [区块链技术发展与银行业应用](https://www-03.ibm.com/systems/data/flash/cn/downloads/Block_chain_technology_development_and_banking_applications.pdf)
 * [银行保险业基于区块链的积分交换研究](https://mp.weixin.qq.com/s/Hm7ZrvpQaCVb72Pyaly-Hg)
 
 ### 工具
@@ -51,6 +53,7 @@ All about blockchain, definition/technique/algorithm/application/scene, etc. inc
 ### 重要进展
 
 ### 产业新闻
+* [前央行司长盛松成：区块链最好不要和货币结合，可与金融沾边](https://www.leiphone.com/news/201804/CeJdOjeIqYDBzbt5.html)
 
 ## TOP blockchain projects
 
